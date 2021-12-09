@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UMMA - Prayer Time</string>
+    <string name="isha">Isha</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="asr">Asr</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="fajr">Fajr</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="imsak">Imsak</string>
+    <string name="city">City {city}</string>
+    <string name="timezone">Timezone {timezone}</string>
+    <string name="country">Country {country}</string>
+    <string name="gregorian">Date {date}</string>
+    <string name="hijri">Hijri {hijri}</string>
+    <string name="permission_location_and_contacts_rationale_message">You need to accept location permissions to use this app.</string>
+    <string name="returned_from_app_settings_to_activity">kembali</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="time">00:00</string>
+</resources>
